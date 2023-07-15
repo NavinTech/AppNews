@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_news">App NEWS</string>
+    <string name="sample_heading">Is this what an early-stage slowdown looks like?</string>
+    <string name="sample_title">TechCrunch</string>
+    <string name="close">close</string>
+    <string name="alert">Alert\n</string>
+    <string name="ok">OK\n</string>
+    <string name="please_wait_loading">Please wait loading\n</string>
+    <string name="share_content">Hey!! checkout this news\n </string>
+</resources>
